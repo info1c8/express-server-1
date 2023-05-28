@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # express-server-1
 =======
 # Cricket Team
@@ -136,4 +135,3 @@ Use `npm install` to install the packages.
 **Export the express instance using the default export syntax.**
 
 **Use Common JS module syntax.**
->>>>>>> 69b338b (1 Commit)
